@@ -2,7 +2,7 @@
 
 /* write your override styles here */
 
-div#wall .tag-1{
+#wall .tag-1{
 	display: none;
 
 }
@@ -11,7 +11,7 @@ body #wall #tag-2{
 	display: none;
 }
 
-body div#wall #tag-3.slick{
+body #wall #tag-3.slick{
 	display: none;
 }
 
