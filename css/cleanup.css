@@ -1,7 +1,5 @@
 /* write your override styles here */
 
-/* write your override styles here */
-
 #wall .tag-1{
 	display: none;
 
@@ -19,14 +17,14 @@ body #wall #tag-3.slick{
   	display: none;
 }
 
-body #wall .parent #tag-5.slick {
+body div#wall .parent #tag-5.slick {
   	display: none;
 }
 
-body #wall .parent :last-child #tag-6 {
+body div#wall div.parent div:last-child div#tag-6 {
   	display: none;
 }
 
-body #wall .parent  #tag-7.slick {
+body div#wall div.parent div div#tag-7.slick {
   	display: none;
 }
